@@ -46,3 +46,18 @@ b {
     font-weight: bold;
     color: white;
 }
+
+.gallery {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .gallery-item {
+    margin: 20px;
+  }
+img {
+    width: 200px;
+    height:200px;
+}
