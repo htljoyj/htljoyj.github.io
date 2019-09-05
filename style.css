@@ -57,7 +57,19 @@ b {
   .gallery-item {
     margin: 20px;
   }
-img {
+.logo {
     width: 200px;
     height:200px;
+}
+
+.nietBehaald {
+    background: lightgray;
+}
+
+.voldoende {
+    background: green;
+}
+
+.onvoldoende {
+    background: red;
 }
