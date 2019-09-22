@@ -5,7 +5,6 @@ html, body {
     flex-direction: column;
     font-weight: 300;
     line-height: 1.5;
-    color: blue;
 }
 
 body {
@@ -45,6 +44,10 @@ nav a {
 
 b {
     font-weight: bold;
+}
+
+.navbold {
+    font-weight: bold;
     color: white;
 }
 
@@ -57,14 +60,15 @@ img {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-  }
-  
-  .gallery-item {
+}
+
+.gallery-item {
     margin: 20px;
-  }
+}
+
 .logo {
     width: 200px;
-    height:200px;
+    height: 200px;
 }
 
 .nietBehaald {
